@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/mouseroot/VideoUpload/issues"
   },
-  "homepage": "https://github.com/mouseroot/VideoUpload"
+  "homepage": "https://github.com/mouseroot/VideoUpload",
+  "dependencies": {
+    "express": "^4.12.3",
+    "formidable": "^1.0.17",
+    "multipart": "^0.1.5"
+  }
 }
